@@ -1,6 +1,8 @@
 *.swp*
 *.tmp
+tmp/
 *~
+cscope.*
 
 # Composer files
 composer.phar
