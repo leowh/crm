@@ -1,3 +1,7 @@
+*.swp*
+*.tmp
+*~
+
 # Composer files
 composer.phar
 vendor/
